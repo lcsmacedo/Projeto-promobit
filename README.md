@@ -17,7 +17,7 @@ https://developers.themoviedb.org/3/getting-started/introduction
 ## Funcionalidades básicas
 - consulta a lista de top rated
 - filtra por gênero
-- consulta dedtalhes do filme como elenco, trailer ee informações básicas 
+- consulta detalhes do filme como elenco, trailer ee informações básicas 
 
 ## Tecnologias Usadas
 - react-router-dom;
